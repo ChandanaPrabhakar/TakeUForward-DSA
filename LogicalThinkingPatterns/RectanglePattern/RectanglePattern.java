@@ -1,4 +1,4 @@
-package LogicalThinkingPatterns;
+package LogicalThinkingPatterns.RectanglePattern;
 
 import java.util.Scanner;
 
